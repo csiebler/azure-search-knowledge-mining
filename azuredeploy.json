@@ -117,7 +117,7 @@
             "location": "[parameters('location')]",
             "kind": "StorageV2",
             "properties": {
-              "supportsHttpsTrafficOnly": true,
+                "supportsHttpsTrafficOnly": true,
             },
             "sku": {
                 "name": "[parameters('storageAccountType')]",
