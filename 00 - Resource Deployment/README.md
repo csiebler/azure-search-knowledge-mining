@@ -22,7 +22,12 @@ There are two options for deploying the resources to Azure for this solution acc
     <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure-Samples%2Fazure-search-knowledge-mining%2Fmaster%2Fazuredeploy.json" target="_blank">
         <img src="http://azuredeploy.net/deploybutton.png"/>
     </a>
+    With Fix:
+    <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcsiebler%2Fazure-search-knowledge-mining%2Fhttps_storage%2Fazuredeploy.json" target="_blank">
+        <img src="http://azuredeploy.net/deploybutton.png"/>
+    </a>
 
+New URL: https://raw.githubusercontent.com/csiebler/azure-search-knowledge-mining/https_storage/azuredeploy.json
 ## Prerequisites
 
 1. Access to an Azure Subscription
